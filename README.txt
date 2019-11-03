@@ -38,3 +38,27 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+Number and name of feature: Refactor
+
+Estimate of time needed to complete: 8 hours +
+
+Start time: 9am
+
+Finish time: 1pm
+
+Actual time needed to complete: 4 hours
+
+
+
+Number and name of feature: Customize to me
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 9am
+
+Finish time: 1pm
+
+Actual time needed to complete: 4 hours
