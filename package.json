@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Prologue by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
   "dependencies": {
-    "mime": "~1.2.7"
+    "mime": "~1.4.1"
   },
   "main": "server.js",
   "scripts": {
