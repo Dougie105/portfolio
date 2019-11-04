@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Prologue by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "dependencies": {
+    "mime": "~1.2.7"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dougie105/portfolio.git"
+  },
+  "author": "Terrell Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dougie105/portfolio/issues"
+  },
+  "homepage": "https://github.com/Dougie105/portfolio#readme"
+}
