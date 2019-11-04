@@ -321,12 +321,30 @@ button:active,
 
 #main > section.one {
   background-color: #81918e;
+  background-repeat: no-repeat;
+  backface-visibility: hidden;
+  animation: slideshow 10s linear infinite 0s;
+  animation-timing-function: ease-in-out;
   background-image: url("../../images/banner.jpg");
 }
 
-#main > section.two {
-  background-color: #f5fafa;
-}
+  @keyframes slideshow {
+    0%{
+      background-image:  url("../../images/banner.jpg");
+    }
+    25%{
+      background-image:  url("../../images/pic03.jpg");
+    }
+    50%{
+      background-image:  url("../../images/pic04.jpg");
+    }
+    75%{
+      background-image:  url("../../images/pic05.jpg");
+    }
+    100%{
+      background-image:  url("../../images/pic06.jpg");
+    }
+  }
 
 #main > section.three {
   background-color: #ecf1f1;
